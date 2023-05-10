@@ -1,0 +1,11 @@
+.ets_testimonal {
+    text-align: center;
+    background: #d5d5d5;
+    padding: 10px 10px;
+}
+.ets_testimonal img{
+    width:300px;
+}
+.wp-block-columns{
+    max-width: 1000px !important;
+}
